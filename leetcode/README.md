@@ -18,6 +18,11 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ---
 
+## Sliding Window
+- [ ] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
+---
+
 ## Binary
 
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
