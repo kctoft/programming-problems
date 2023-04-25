@@ -19,7 +19,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 ---
 
 ## Sliding Window
-- [ ] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [X] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [ ] [ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ---
 
