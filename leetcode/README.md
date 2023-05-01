@@ -23,7 +23,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [X] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [X] [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 - [X] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [X] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [ ]
 
 ---
 
