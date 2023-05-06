@@ -18,6 +18,14 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ---
 
+## Sorting Algorithms
+
+- [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+- [ ] TBA
+- [ ] TBA
+
+---
+
 ## Sliding Window
 
 - [X] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
