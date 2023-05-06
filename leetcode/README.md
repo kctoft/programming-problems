@@ -4,21 +4,22 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Array
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ---
 
 ## Sliding Window
+
 - [X] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [X] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [X] [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
@@ -31,6 +32,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Binary
 
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/)
+<!-- - [ ] []() -->
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
