@@ -20,9 +20,10 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Sorting Algorithms
 
+### Merge Sort
 - [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/)
-- [ ] TBA
-- [ ] TBA
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ---
 
