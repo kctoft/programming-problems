@@ -45,6 +45,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
 ---
 
