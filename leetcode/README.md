@@ -40,10 +40,16 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ---
 
-## Binary
+## Binary Search
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+<!-- - [ ] []() -->
+
+---
+
+## Binary
+
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
