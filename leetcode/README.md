@@ -15,7 +15,6 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 ---
 
@@ -52,6 +51,18 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ---
 
+
+## Linked List
+
+- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+
+---
+
 ## Binary
 
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
@@ -64,6 +75,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Dynamic Programming
 
+<!-- TODO: go over Maximum Product Subarray another time soon -->
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
@@ -98,17 +111,6 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
 - [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
-
----
-
-## Linked List
-
-- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
 
