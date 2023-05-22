@@ -13,9 +13,9 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 ---
 
@@ -48,7 +48,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [ ] [Koko Eting Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [x] [Koko Eting Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 ---
 
