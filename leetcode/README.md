@@ -1,4 +1,5 @@
 # Solving LeetCode Problems
+
 For this collection of problems, I will be solving the infamous **Blind 75 Leetcode questions**.
 Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my break down of general Data Structures & Algorithms. More to come!
 
@@ -21,6 +22,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 ## Sorting Algorithms
 
 ### Merge Sort
+
 - [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 <!-- TODO: Use a heap next time for Merge K Sorted Lists-->
@@ -45,7 +47,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [ ] [Koko Eting Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 ---
 
@@ -158,3 +161,5 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 ## Important Links:
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+![Time Complexity Graph]()
