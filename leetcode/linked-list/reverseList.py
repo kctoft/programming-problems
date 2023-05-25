@@ -1,6 +1,7 @@
 # Reverse Linked List
 ## Link: https://leetcode.com/problems/reverse-linked-list/
 
+# Using the two pointer technique
 def reverseList(self, head):
         """
         :type head: ListNode
