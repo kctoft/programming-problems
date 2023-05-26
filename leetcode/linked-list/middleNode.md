@@ -2,7 +2,7 @@
 
 The problem "*Middle of the Linked List*" asks us to find the middle node of a singly linked list. My first intuition was to use **two pointers**, mv the **fast and slow pointer** technique, in order to traverse the list.
 
-# Aproach
+# Approach
 
 Initialize both the `slow` and `fast` pointers to the head of the linked list. For each iteration, the `slow` pointer moves one node at a time and the `fast` pointer moves two nodes each iteration.
 
