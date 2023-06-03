@@ -53,6 +53,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Linked List
 
+![Linked List](./linkedListRreview.png)
+
 - [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -66,10 +68,14 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Tree
 
+![binary tree review](./BTreview.png)
+
 - [x] [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
