@@ -16,6 +16,11 @@ Since we are working with a BST we can use either Depth First Search or Breadth 
 
 `BFS` also starts from the root node and visits all nodes of current depth before moving to the next depth in the tree.
 
+Alternately, we could use `BFS` and search every level, adding seen nodes to a queue. Sort the nodes, and return the smallest value.
+
+![bfs](./bfs.png)
+
+For simplicity sake, we will run a recursive DFS call: a in-order traversal of a BST will give us a sorted list.
 
 # Algorithm Steps
 
