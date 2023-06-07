@@ -5,6 +5,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Array
 
+![array](./arr.png)
+
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -20,16 +22,16 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Sorting Algorithms
 
-### Merge Sort
+### [Merge Sort](https://medium.com/@kitanatoft/merge-sort-explained-93a6bad7cccb)
 
 - [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
-<!-- TODO: Use a heap next time for Merge K Sorted Lists-->
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+<!-- TODO: Use a heap next time for Merge K Sorted Lists-->
 
 ---
 
-## Sliding Window
+## [Sliding Window](https://medium.com/@kitanatoft/sliding-window-technique-explained-653a011d1eae)
 
 - [X] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [X] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -41,7 +43,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ---
 
-## Binary Search
+## [Binary Search](https://medium.com/@kitanatoft/binary-search-explained-a46ea6e2ae35)
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
@@ -51,7 +53,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ---
 
-## Linked List
+## [Linked List](https://medium.com/@kitanatoft/linked-list-explained-ee6fd9c4f418)
 
 ![Linked List](./linkedListRreview.png)
 
@@ -69,7 +71,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 ## Tree
 
 ![binary tree review](./bstReview.png)
-![insert](./insert_bST.png)
+![insert](./insert_BST.png)
 ![delete](./delete_treeNode.png)
 ![dfs](./trees/dfs.png)
 ![bfs](./trees/bfs.png)
@@ -84,11 +86,11 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 - [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-
+- [x] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
+- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [x] [Path Sum](https://leetcode.com/problems/path-sum/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
@@ -179,7 +181,10 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ---
 
-## Important Links:
+## References & Other Notes
+
+![stack](./stack.png)
+![queue deque](./queueDeque.png)
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-![Time Complexity Graph]()
+![Time Complexity Graph](./timeComplexityGraph.png)
