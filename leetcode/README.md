@@ -187,4 +187,4 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 ![queue deque](./images/queueDeque.png)
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-![Time Complexity Graph](./timeComplexityGraph.png)
+![Time Complexity Graph](./images/timeComplexityGraph.png)
