@@ -5,7 +5,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Array
 
-![array](./arr.png)
+![array](./images/arr.png)
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -55,7 +55,7 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## [Linked List](https://medium.com/@kitanatoft/linked-list-explained-ee6fd9c4f418)
 
-![Linked List](./linkedListRreview.png)
+![Linked List](./images/linkedListRreview.png)
 
 - [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
@@ -70,11 +70,11 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## Tree
 
-![binary tree review](./bstReview.png)
-![insert](./insert_BST.png)
-![delete](./delete_treeNode.png)
-![dfs](./trees/dfs.png)
-![bfs](./trees/bfs.png)
+![binary tree review](./images/bstReview.png)
+![insert](./images/insert_BST.png)
+![delete](./images/delete_treeNode.png)
+![dfs](./images/dfs.png)
+![bfs](./images/bfs.png)
 
 - [x] [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
@@ -183,8 +183,8 @@ Check out my portfolio on [Medium](https://medium.com/@kitanatoft) to see my bre
 
 ## References & Other Notes
 
-![stack](./stack.png)
-![queue deque](./queueDeque.png)
+![stack](./images/stack.png)
+![queue deque](./images/queueDeque.png)
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 ![Time Complexity Graph](./timeComplexityGraph.png)
