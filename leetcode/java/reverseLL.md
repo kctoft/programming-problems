@@ -24,25 +24,23 @@ A **singly linked list** only has `next pointers`, therefore we are unable to si
 # Code
 
 ```java
-class Solution {
-    public ListNode reverseList(ListNode head) {
-        // use 3 pointers: cur, prev, & nxt
-        ListNode cur = head;
-        ListNode prev = null;
+public ListNode reverseList(ListNode head) {
+    // use 3 pointers: cur, prev, & nxt
+    ListNode cur = head;
+    ListNode prev = null;
 
-        while (cur != null) {
-            // create temp to hold cur.next list values
-            ListNode next = cur.next;
+    while (cur != null) {
+        // create temp to hold cur.next list values
+        ListNode next = cur.next;
 
-            // start reversing list
-            cur.next = prev;
+        // start reversing list
+        cur.next = prev;
 
-            // update ptrs each iteration
-            prev = cur;
-            cur = next;
-        }
-        return prev;
+        // update ptrs each iteration
+        prev = cur;
+        cur = next;
     }
+    return prev;
 }
 ```
 
